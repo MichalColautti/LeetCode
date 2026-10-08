@@ -23,12 +23,7 @@ public:
             head = head->next;
         }
         
-        if(n == 1) {
-            head->next = nullptr;
-        }
-        else {
-            head->next = head->next->next;
-        }
+        head->next = head->next->next;
 
         return headPtr;
     }
