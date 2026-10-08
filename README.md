@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/MichalColautti/LeetCode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MichalColautti/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/MichalColautti/LeetCode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/MichalColautti/LeetCode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/MichalColautti/LeetCode/tree/main/0018-4sum/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/MichalColautti/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MichalColautti/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
 | Problem Name | Difficulty |
